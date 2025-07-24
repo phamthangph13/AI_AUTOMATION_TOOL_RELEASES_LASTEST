@@ -1,0 +1,37 @@
+[
+    {
+      "model_id": "eleven_multilingual_v2",
+      "name": "Multilingual V2",
+      "description": "Mô hình tổng hợp giọng nói đa ngôn ngữ chất lượng cao nhất với khả năng thể hiện cảm xúc phong phú.",
+      "languages": "Đa ngôn ngữ",
+      "advantages": ["Chất lượng cao", "Biểu cảm phong phú", "Hỗ trợ nhiều ngôn ngữ"]
+    },
+    {
+      "model_id": "eleven_flash_v2_5",
+      "name": "Flash V2.5",
+      "description": "Mô hình siêu nhanh được tối ưu hóa cho việc sử dụng thời gian thực (~75ms).",
+      "languages": "Đa ngôn ngữ",
+      "advantages": ["Tốc độ rất nhanh", "Thích hợp cho thời gian thực"]
+    },
+    {
+      "model_id": "eleven_flash_v2",
+      "name": "Flash V2",
+      "description": "Mô hình siêu nhanh được tối ưu hóa cho việc sử dụng thời gian thực chỉ hỗ trợ tiếng Anh.",
+      "languages": "Chỉ tiếng Anh",
+      "advantages": ["Tốc độ rất nhanh", "Thích hợp cho thời gian thực"]
+    },
+    {
+      "model_id": "eleven_turbo_v2_5",
+      "name": "Turbo V2.5",
+      "description": "Mô hình chất lượng cao, độ trễ thấp với sự cân bằng tốt giữa chất lượng và tốc độ.",
+      "languages": "Đa ngôn ngữ",
+      "advantages": ["Chất lượng tốt", "Độ trễ thấp", "Cân bằng giữa tốc độ và chất lượng"]
+    },
+    {
+      "model_id": "eleven_turbo_v2",
+      "name": "Turbo V2",
+      "description": "Mô hình chất lượng cao, độ trễ thấp chỉ hỗ trợ tiếng Anh.",
+      "languages": "Chỉ tiếng Anh",
+      "advantages": ["Chất lượng tốt", "Độ trễ thấp"]
+    }
+]
